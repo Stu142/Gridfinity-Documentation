@@ -28,6 +28,9 @@ This section contains information about bin design
 <img src="drawing_svg/bin_radius.svg">
 
 ### Bin Stacking lip
+This section includes the profile of the stacking lip. There are two option and both work fine. 
+
+For the rounded Staking lip it is not hte exact same as the one is Zach's original models but close and easier to recreate. What you do at the top doesn't really matter as long as everything else is the same. 
 <img src="drawing_svg/bin_round_stacking_lip_profile.svg">
 <img src="drawing_svg/bin_sharp_stacking_lip_profile.svg">
 
