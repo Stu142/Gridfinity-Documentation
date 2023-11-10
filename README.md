@@ -29,11 +29,6 @@ This section contains information about bin design
 
 ### Bin Stacking lip
 <img src="drawing_svg/bin_round_stacking_lip_profile.svg">
-
-# Gridfinity SS
-
-[GridfinityBaseplate-Section View.pdf](https://github.com/Stu142/Gridfinity-Documentation/files/13200376/GridfinityBaseplate-Section.View.pdf)
-
-This section is contains the spec to a optimized version of gridfinity that is completely compattable with the old spec but optimezed for the standard printing nozzle size. 
+<img src="drawing_svg/bin_round_sharp_lip_profile.svg">
 
 
