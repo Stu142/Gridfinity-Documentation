@@ -6,11 +6,13 @@ You can also check out the [Gridfinity website](https://gridfinity.xyz/).
 # Overview 
 This page will inculde techinical drawings to explain gridfinity and make it easier for everyone to design components that conform to the standards and ensure compatibility. There are many drawings here and it is not the most efficient way to create an engineering drawing but it is meant to provide the most amount of information and from different perspectives to make sure the most amount of people can understand it and don't need to do calculations for dimensions. 
 
+
+My parametric FreeCAD files can be found in my [printables collection](https://www.printables.com/@Stu142_524934/collections/969910).
+
 All drawings and models used in the video were created by me in [FreeCAD](https://www.freecad.org/).
 
 If you find this free page valuable support is appreciated: [Paypal](http://paypal.me/Stu142).
 
-Parametric FreeCAD files can be found in my [printables collection](https://www.printables.com/@Stu142_524934/collections/969910).
 
 # Original Spec
 
