@@ -4,7 +4,7 @@ Documentation relating to the Gridfinity project by Zach Freedman to provide des
 You can also check out the [Gridfinity website](https://gridfinity.xyz/).
 
 # Overview 
-This page will inculde techinical drawings to explain gridfinity and make it easier for everyone to design components that conform to the standards and ensure compatibility. There are many drawings here and it is not the most efficient way to create an engineering drawing but it is meant to provide the most amount of information and from different perspectives to make sure the most amount of people can understand it. 
+This page will inculde techinical drawings to explain gridfinity and make it easier for everyone to design components that conform to the standards and ensure compatibility. There are many drawings here and it is not the most efficient way to create an engineering drawing but it is meant to provide the most amount of information and from different perspectives to make sure the most amount of people can understand it and don't need to do calculations for dimensions. 
 
 All drawings and models used in the video were created by me in [FreeCAD](https://www.freecad.org/).
 
@@ -34,5 +34,13 @@ For the rounded Staking lip it is not hte exact same as the one is Zach's origin
 <img src="drawing_svg/bin_round_stacking_lip_profile.svg">
 <img src="drawing_svg/bin_sharp_stacking_lip_profile.svg">
 
-# Extras
+# Assbmly drawings 
+Coming soon
 
+aiming to show how the tolerances work. 
+
+
+# Extras
+coming soon
+
+includes information about magnet holes and sequential bridging 
