@@ -28,6 +28,7 @@ This section contains information about bin design
 <img src="drawing_svg/bin_radius.svg">
 
 ### Bin Stacking lip
+<img src="drawing_svg/bin_round_stacking_lip_profile.svg">
 
 # Gridfinity SS
 
