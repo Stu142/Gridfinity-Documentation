@@ -29,6 +29,6 @@ This section contains information about bin design
 
 ### Bin Stacking lip
 <img src="drawing_svg/bin_round_stacking_lip_profile.svg">
-<img src="drawing_svg/bin_round_sharp_lip_profile.svg">
+<img src="drawing_svg/bin_sharp_stacking_lip_profile.svg">
 
 
