@@ -26,13 +26,16 @@ Alright lets get into it. This section will include the specifications of Zach's
 ## Bins/Containers
 This section contains information about bin design 
 
-### Bin Units explanation
-
-### Bin base 
+### Bin Base Profile
 <img src="drawing_svg/bin_bottom_profile.svg">
 <img src="drawing_svg/bin_profile_width.svg">
 
 <img src="drawing_svg/bin_radius.svg">
+
+### Bin Units explanation
+
+<img src="drawing_svg/bin_total_width.svg">
+<img src="drawing_svg/bin_total_height.svg">
 
 ### Bin Stacking lip
 This section includes the profile of the stacking lip. There are two option and both work fine. 
