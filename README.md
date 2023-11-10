@@ -1,16 +1,14 @@
 # Gridfinity-Documentation
-Documentation relating to the Gridfinity project by Zach Freedman to provide designers with the information to make cool things
-Description
+Documentation relating to the Gridfinity project by Zach Freedman to provide designers with the information to make cool things. If you are new to gridfinity watch [Zach's intro video](https://www.youtube.com/watch?v=ra_9zU-mnl8).
 
-Gridfinity is a modular storage system designed by Zach Freedman and a video explaination can be found here: 
-
-the Gridfinity site can be found here:
-
-This page will inculde techinical drawings to explain gridfinity and make it easier for people to design components that conform to the standards and ensure compatibility. As well as introducing GridfinitySS which is a slight modification to the orifinal spec that is completely compatable but optimized for a 0.2 mm layer height and 0.4 mm nozzle the most standard size. 
+You can also check out the [Gridfinity website](https://gridfinity.xyz/).
 
 # Overview 
-There are many drawings here and it is not the most efficient way to create an engineering drawing but it is meant to provide the most amount of information and from different perspectives to make sure the most amount of people can understand it. 
+This page will inculde techinical drawings to explain gridfinity and make it easier for everyone to design components that conform to the standards and ensure compatibility. There are many drawings here and it is not the most efficient way to create an engineering drawing but it is meant to provide the most amount of information and from different perspectives to make sure the most amount of people can understand it. 
 
+All drawings and models used in the video were created by me in [FreeCAD](https://www.freecad.org/).
+
+If you find this free page valuable support is appreciated: [Paypal](http://paypal.me/Stu142).
 # Original Spec
 
 ## Baseplate
