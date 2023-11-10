@@ -14,7 +14,6 @@ There are many drawings here and it is not the most efficient way to create an e
 # Original Spec
 
 ## Baseplate
-<object data="{{ Drawing PDFs/Baseplate total width }}" width="1000" height="1000" type='application/pdf'/>
 
 <object data="Drawing PDFs/Baseplate total width.pdf" width="1000" height="1000" type='application/pdf'></object>
 
