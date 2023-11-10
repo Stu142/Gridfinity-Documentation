@@ -14,7 +14,7 @@ There are many drawings here and it is not the most efficient way to create an e
 # Original Spec
 
 ## Baseplate
-<img src="assets/Baseplate Radius.svg">
+<img src="assets/baseplate_profile.svg">
 
 ## bin
 This section contains information about bin design 
