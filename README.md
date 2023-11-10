@@ -22,6 +22,10 @@ This section contains information about bin design
 ### Bin Units explanation
 
 ### Bin base 
+<img src="drawing_svg/bin_bottom_profile.svg">
+<img src="drawing_svg/bin_profile_width.svg">
+
+<img src="drawing_svg/bin_radius.svg">
 
 ### Bin Stacking lip
 
