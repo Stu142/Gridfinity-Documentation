@@ -18,7 +18,7 @@ There are many drawings here and it is not the most efficient way to create an e
 <img src="drawing_svg/baseplate_total_width.svg">
 <img src="drawing_svg/baseplate_radius.svg">
 
-## bin
+## Bins/Containers
 This section contains information about bin design 
 
 ### Bin Units explanation
