@@ -16,7 +16,7 @@ There are many drawings here and it is not the most efficient way to create an e
 ## Baseplate
 <object data="{{ Drawing PDFs/Baseplate total width }}" width="1000" height="1000" type='application/pdf'/>
 
-<object data="../assets/Drawing PDFs/Baseplate total width.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="Drawing PDFs/Baseplate total width.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ## bin
 This section contains information about bin design 
