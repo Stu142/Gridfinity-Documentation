@@ -15,6 +15,8 @@ There are many drawings here and it is not the most efficient way to create an e
 
 ## Baseplate
 <object data="Drawing PDFs/Baseplate total width" width="1000" height="1000" type='application/pdf'/>
+
+
 [GridfinityBaseplate-Section View.pdf](https://github.com/Stu142/Gridfinity-Documentation/files/13200376/GridfinityBaseplate-Section.View.pdf)
 
 ## bin
