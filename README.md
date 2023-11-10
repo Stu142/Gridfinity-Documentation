@@ -13,8 +13,10 @@ If you find this free page valuable support is appreciated: [Paypal](http://payp
 
 All of the models and drawings displayed on this page were made using [FreeCAD](https://www.freecad.org/).
 
+Product links on the page may be affiliate links. 
 
 # Original Spec
+Alright lets get into it. This section will include the specifications of Zach's original models for baseplates and bins. 
 
 ## Baseplate
 <img src="drawing_svg/baseplate_profile.svg">
