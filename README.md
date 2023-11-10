@@ -44,7 +44,7 @@ For the rounded Staking lip it is not hte exact same as the one is Zach's origin
 # Assbmly drawings 
 Coming soon
 
-aiming to show how the tolerances work. 
+aiming to show how the tolerances between bins work. 
 
 
 # Extras
