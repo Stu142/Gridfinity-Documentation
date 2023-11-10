@@ -9,9 +9,9 @@ This page will inculde techinical drawings to explain gridfinity and make it eas
 
 My parametric FreeCAD files can be found in my [printables collection](https://www.printables.com/@Stu142_524934/collections/969910).
 
-All drawings and models used in the video were created by me in [FreeCAD](https://www.freecad.org/).
+If you find this free page valuable support is appreciated: [Paypal](http://paypal.me/Stu142). I really appreciate it. 
 
-If you find this free page valuable support is appreciated: [Paypal](http://paypal.me/Stu142).
+All of the models and drawings displayed on this page were made using [FreeCAD](https://www.freecad.org/).
 
 
 # Original Spec
