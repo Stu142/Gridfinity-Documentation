@@ -9,6 +9,9 @@ This page will inculde techinical drawings to explain gridfinity and make it eas
 All drawings and models used in the video were created by me in [FreeCAD](https://www.freecad.org/).
 
 If you find this free page valuable support is appreciated: [Paypal](http://paypal.me/Stu142).
+
+Parametric FreeCAD files can be found in my [printables collection](https://www.printables.com/@Stu142_524934/collections/969910).
+
 # Original Spec
 
 ## Baseplate
