@@ -17,7 +17,6 @@ There are many drawings here and it is not the most efficient way to create an e
 <object data="Gridfinity-Documentation/Drawing PDFs/Baseplate total width" width="1000" height="1000" type='application/pdf'/>
 
 
-[GridfinityBaseplate-Section View.pdf](https://github.com/Stu142/Gridfinity-Documentation/files/13200376/GridfinityBaseplate-Section.View.pdf)
 
 ## bin
 This section contains information about bin design 
@@ -29,6 +28,8 @@ This section contains information about bin design
 ### Bin Stacking lip
 
 # Gridfinity SS
+
+[GridfinityBaseplate-Section View.pdf](https://github.com/Stu142/Gridfinity-Documentation/files/13200376/GridfinityBaseplate-Section.View.pdf)
 
 This section is contains the spec to a optimized version of gridfinity that is completely compattable with the old spec but optimezed for the standard printing nozzle size. 
 
