@@ -14,7 +14,7 @@ There are many drawings here and it is not the most efficient way to create an e
 # Original Spec
 
 ## Baseplate
-<img src="assets/Baseplate total width.svg">
+<img src="assets/Baseplate Radius.svg">
 
 <object data="https://github.com/Stu142/Gridfinity-Documentation/assets/Baseplate total width.pdf" width="1000" height="1000" type='application/pdf'></object>
 
