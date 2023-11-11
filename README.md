@@ -55,3 +55,7 @@ Aiming to show how the tolerances between bins work.
 coming soon
 
 will include information about magnet holes and sequential bridging 
+
+# Where to buy Components 
+This section includes affiliate links for components and materials to create your ultimate Gridfinity set up. 
+
