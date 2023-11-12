@@ -63,5 +63,21 @@ will include information about magnet holes and sequential bridging
 # Where to buy Components 
 This section includes affiliate links for components and materials to create your ultimate Gridfinity set up. 
 
-Filament: [Polymaker PETG](https://geni.us/CBTpq) (Amazon).
+Filament:
+
+[Polymaker PETG](https://geni.us/CBTpq) (Amazon).
+
+[Polymaker PLA](https://geni.us/qoaqfE) (Amazon).
+
+Begginner 3D printer [Sovol SV06 plus](https://geni.us/fWW26p) (Amazon).
+
+Hardware:
+
+[M3 Screw set](https://geni.us/gfP7w) (Amazon).
+
+[M3 heat set insert](https://geni.us/Svm0Sl) (Amazon).
+
+[6 mm x 2 mm magnets](https://geni.us/X9t1M) (Amazon).
+
+
 
