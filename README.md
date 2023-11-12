@@ -30,7 +30,11 @@ This section contains information about bin design
 <img src="drawing_svg/bin_bottom_profile.svg">
 <img src="drawing_svg/bin_profile_width.svg">
 
+The following image will show the corner radius dimenions of the bin as well as magnet holes and screw holes that are optional. [6 mm x 2 mm magnets](https://geni.us/X9t1M) (Amazon) are the standard size in the gridfinity ecosystem. [M3 Screws]() (Amazon) are also commonly used and the bin can be secured by screwing up from the bottom. 
+
 <img src="drawing_svg/bin_radius.svg">
+
+The Screw holes can also be widened to a diameter of 4.2 mm to allow for [M3 heat set inserts](https://geni.us/Svm0Sl) (Amazon) to be used as a more secure methode of attachement. 
 
 ### Bin Units explanation
 
