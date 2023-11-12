@@ -3,7 +3,7 @@ Documentation relating to the Gridfinity project by Zach Freedman to provide des
 
 You can also check out the [Gridfinity website](https://gridfinity.xyz/).
 
-Please let me know if you find errors or have suggestions on how to make the information easier to understand. I want to make this the untimate gridfinity resourse. 
+Please let me know if you find errors or have suggestions on how to make the information easier to understand. I want to make this the untimate Gridfinity resourse. 
 
 # Overview 
 This page will include technical drawings to explain gridfinity and make it easier for everyone to design components that conform to the standards and ensure compatibility. There are many drawings here and it is not the most efficient way to create an engineering drawing, but it is meant to provide the most amount of information from different perspectives to make sure the most amount of people can understand it and don't need to do calculations for dimensions. 
