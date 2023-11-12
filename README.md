@@ -59,3 +59,5 @@ will include information about magnet holes and sequential bridging
 # Where to buy Components 
 This section includes affiliate links for components and materials to create your ultimate Gridfinity set up. 
 
+Filament: [Polymaker PETG](https://geni.us/CBTpq) (Amazon).
+
