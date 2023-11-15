@@ -51,7 +51,7 @@ The rounded Staking lip is not the exact same as the one in Zach's original mode
 <img src="drawing_svg/bin_round_stacking_lip_profile.svg">
 <img src="drawing_svg/bin_sharp_stacking_lip_profile.svg">
 
-# Assbmly drawings 
+# Assebmly drawings 
 Coming soon
 
 Aiming to show how the tolerances between bins work. 
