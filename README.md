@@ -6,14 +6,15 @@ You can also check out the [Gridfinity website](https://gridfinity.xyz/).
 Please let me know if you find errors or have suggestions on how to make the information easier to understand. I want to make this the untimate Gridfinity resourse. 
 
 # Overview 
-This page will include technical drawings to explain gridfinity and make it easier for everyone to design components that conform to the standards and ensure compatibility. There are many drawings here and it is not the most efficient way to create an engineering drawing, but it is meant to provide the most amount of information from different perspectives to make sure the most amount of people can understand it and don't need to do calculations for dimensions. 
+This page will include technical drawings to explain Gridfinity and make it easier for everyone to design components that conform to the standards and ensure compatibility. There are many drawings here and it is not the most efficient way to create an engineering drawing, but it is meant to provide the most amount of information from different perspectives to make sure the most amount of people can understand it and don't need to do calculations for dimensions. 
 
-
-My parametric FreeCAD files can be found in my [printables collection](https://www.printables.com/@Stu142_524934/collections/969910).
-
-If you find this free page, valuable support is appreciated: [Paypal](http://paypal.me/Stu142). I really appreciate it. 
+**If you find this free page valuable your support is appreciated: [https://stu142.com/supportme](https://stu142.com/supportme). Thanks for allowing me to share more with this wonderful community.** 
 
 All of the models and drawings displayed on this page were made using [FreeCAD](https://www.freecad.org/).
+
+Check out my [FreeCAD Gridfinity Generator](https://github.com/Stu142/FreeCAD-Gridfinity-Workbench) which is a workbench that can be installed from the built-in addon manager. 
+
+My parametric FreeCAD files can be found in my [printables collection](https://www.printables.com/@Stu142_524934/collections/969910).
 
 Product links on the page may be affiliate links. 
 
