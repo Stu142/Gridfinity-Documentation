@@ -12,7 +12,7 @@ This page will include technical drawings to explain Gridfinity and make it easi
 
 All of the models and drawings displayed on this page were made using [FreeCAD](https://www.freecad.org/).
 
-Check out my [FreeCAD Gridfinity Generator](https://github.com/Stu142/FreeCAD-Gridfinity-Workbench) which is a workbench that can be installed from the built-in addon manager. 
+Check out my [FreeCAD Gridfinity Generator](https://github.com/Stu142/FreeCAD-Gridfinity-Workbench) which is a workbench that can be installed from the built-in addon manager and can generate an assortment of bins and baseplates with the click of a button. 
 
 My parametric FreeCAD files can be found in my [printables collection](https://www.printables.com/@Stu142_524934/collections/969910).
 
