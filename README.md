@@ -19,7 +19,7 @@ My parametric FreeCAD files can be found in my [printables collection](https://w
 Product links on the page may be affiliate links. 
 
 # Original Spec
-Alright, let's get into it. This section will include the specifications of Zach's original models for baseplates and bins. 
+Alright, let's get into it. This section will include the specifications of Zack's original models for baseplates and bins. 
 
 ## Baseplate
 <img src="drawing_svg/baseplate_profile.svg">
