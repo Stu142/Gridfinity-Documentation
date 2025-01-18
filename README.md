@@ -1,5 +1,5 @@
 # Gridfinity-Documentation
-Documentation relating to the Gridfinity project by Zach Freedman to provide designers with the information to make cool things. If you are new to gridfinity watch [Zach's intro video](https://www.youtube.com/watch?v=ra_9zU-mnl8).
+Documentation relating to the Gridfinity project by Zack Freedman to provide designers with the information to make cool things. If you are new to gridfinity watch [Zack's intro video](https://www.youtube.com/watch?v=ra_9zU-mnl8).
 
 You can also check out the [Gridfinity website](https://gridfinity.xyz/).
 
